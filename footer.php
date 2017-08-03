@@ -25,7 +25,7 @@
                 <a href = "">CONTACT</a>
         </div>  
         <div class = "cprt">
-                <span>@Copyright Lynn.s</span>
+                <span>@Copyright Joyce.s</span>
                 
         </div>
 </div>
